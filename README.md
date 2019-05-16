@@ -100,6 +100,8 @@ export default class SlideshowTest extends Component {
 | `onPress` | func | optional | - | returns an object image and index of image pressed|
 | `onPositionChanged` | func | optional | - | called when the current position is changed |
 | `containerStyle` | object | optional | - | custom styles for container |
+| `scrollStyle` | object | optional | - | custom styles for ScrollView |
+| `imageStyle` | object | optional | - | custom styles for Image |
 | `titleStyle` | object | - | - | custom styles for title |
 | `captionStyle` | object | - | - | custom styles for caption |
 
