@@ -1,24 +1,24 @@
 {
-  "name": "react-native-image-slider-show",
-  "version": "1.0.2",
-  "description": "A quick and easy slideshow for react native.",
+  "name": "react-native-image-slider-show-razzium",
+  "version": "1.0.0",
+  "description": "A quick and easy slideshow for react native (forked from : react-native-image-slider-show By Kamal Pandey).",
   "main": "Slideshow.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamalpandey/react-native-image-slider-show.git"
+    "url": "git+https://github.com/razzium/react-native-image-slider-show.git"
   },
   "keywords": [
     "react",
     "native",
     "slideshow"
   ],
-  "author": "Kamal Pandey",
+  "author": "RaZZiuM",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kamalpandey/react-native-image-slider-show/issues"
+    "url": "https://github.com/razzium/react-native-image-slider-show/issues"
   },
-  "homepage": "https://github.com/kamalpandey/react-native-image-slider-show#readme"
+  "homepage": "https://github.com/razzium/react-native-image-slider-show#readme"
 }
