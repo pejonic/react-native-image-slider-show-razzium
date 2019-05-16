@@ -1,4 +1,4 @@
-# react-native-image-slider-show
+# react-native-image-slider-show-razzium
 A quick and easy slideshow for react native. (Android & iOS)
 
 ![GIF](demo1.gif) ![GIF](demo2.gif)
