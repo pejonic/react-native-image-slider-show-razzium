@@ -6,13 +6,13 @@ A quick and easy slideshow for react native. (Android & iOS)
 ## Installation
 
 ```bash
-npm install react-native-image-slider-show --save
+npm install react-native-image-slider-show-razzium --save
 ```
 
 ## Usage
 
 ```javascript
-import Slideshow from 'react-native-image-slider-show';
+import Slideshow from 'react-native-image-slider-show-razzium';
 
 // ...
 
