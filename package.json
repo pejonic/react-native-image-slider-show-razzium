@@ -1,6 +1,6 @@
 {
   "name": "react-native-image-slider-show-razzium",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A quick and easy slideshow for react native (forked from : react-native-image-slider-show By Kamal Pandey).",
   "main": "Slideshow.js",
   "scripts": {
