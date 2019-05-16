@@ -7,6 +7,8 @@ A quick and easy slideshow for react native. (Android & iOS)
 
 ```bash
 npm install react-native-image-slider-show-razzium --save
+or
+yarn add react-native-image-slider-show-razzium
 ```
 
 ## Usage
