@@ -1,18 +1,20 @@
-# react-native-image-slider-show
-A quick and easy slideshow for react native. (Android & iOS)
+# react-native-image-slider-show-razzium
+A quick and easy slideshow for react native (forked from : react-native-image-slider-show By Kamal Pandey).
 
 ![GIF](demo1.gif) ![GIF](demo2.gif)
 
 ## Installation
 
 ```bash
-npm install react-native-image-slider-show --save
+npm install react-native-image-slider-show-razzium --save
+or
+yarn add react-native-image-slider-show-razzium
 ```
 
 ## Usage
 
 ```javascript
-import Slideshow from 'react-native-image-slider-show';
+import Slideshow from 'react-native-image-slider-show-razzium';
 
 // ...
 
@@ -98,6 +100,8 @@ export default class SlideshowTest extends Component {
 | `onPress` | func | optional | - | returns an object image and index of image pressed|
 | `onPositionChanged` | func | optional | - | called when the current position is changed |
 | `containerStyle` | object | optional | - | custom styles for container |
+| `scrollStyle` | object | optional | - | custom styles for ScrollView |
+| `imageStyle` | object | optional | - | custom styles for Image |
 | `titleStyle` | object | - | - | custom styles for title |
 | `captionStyle` | object | - | - | custom styles for caption |
 
